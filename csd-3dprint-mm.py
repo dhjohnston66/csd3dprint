@@ -1,4 +1,4 @@
-# requires trimesh
+# requires trimesh (install using "conda install -c conda-forge trimesh")
 import numpy as np
 import trimesh
 from mercury_interface import MercuryInterface
